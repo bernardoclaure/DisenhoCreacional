@@ -1,0 +1,1 @@
+Se propuso la solucion para un restaurante de hamburguesas ya que estos hacen distintos tipos de hamburguesas y cada una de estas tiene distintas maneras de preparalas, se aplico el patron factory method para resolver el problema y hacer las hamburguesas desde un metodo.

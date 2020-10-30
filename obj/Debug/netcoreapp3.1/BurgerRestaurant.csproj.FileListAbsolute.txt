@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\bin\Debug\netcoreapp3.1\BurgerRestaurant.exe
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\bin\Debug\netcoreapp3.1\BurgerRestaurant.deps.json
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\bin\Debug\netcoreapp3.1\BurgerRestaurant.runtimeconfig.json
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\bin\Debug\netcoreapp3.1\BurgerRestaurant.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\bin\Debug\netcoreapp3.1\BurgerRestaurant.dll
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\bin\Debug\netcoreapp3.1\BurgerRestaurant.pdb
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\obj\Debug\netcoreapp3.1\BurgerRestaurant.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\obj\Debug\netcoreapp3.1\BurgerRestaurant.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\obj\Debug\netcoreapp3.1\BurgerRestaurant.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\obj\Debug\netcoreapp3.1\BurgerRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\obj\Debug\netcoreapp3.1\BurgerRestaurant.dll
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\obj\Debug\netcoreapp3.1\BurgerRestaurant.pdb
+C:\Users\Usuario\Desktop\ArquiSoft\BurgerRestaurant\obj\Debug\netcoreapp3.1\BurgerRestaurant.genruntimeconfig.cache
